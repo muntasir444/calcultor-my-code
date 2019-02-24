@@ -1,0 +1,31 @@
+form {
+    width: 500px;
+    background: #f5f5f0;
+    height: 264px;
+    padding: 20px;
+}
+
+label {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 13px;
+    margin-left: 78px;
+}
+
+input[type="number"] {
+    width: 302px;
+    background: #fff;
+    border: none;
+    padding: 4px;
+    margin-top: -7px;
+    margin-left: 78px;
+}
+
+button {
+    margin-left: 88px;
+    margin-top: 10px;
+    background: #fff;
+    border: 1px solid darkgreen;
+    width: 99px;
+}
